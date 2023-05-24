@@ -10,7 +10,6 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
 # Contents
 
-Python
-
-Zomato_Data_Analysis
-Quantium_Data_Analytics
+#Python
+1.Zomato_Data_Analysis
+2.Quantium_Data_Analytics
