@@ -16,7 +16,7 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
 # Python
 
-1.Zomato_Data_Analysis 
+1.Zomato Data Analysis
 
 2.Quantium_Data_Analytics
 
