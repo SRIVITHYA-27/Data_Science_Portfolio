@@ -2,7 +2,7 @@
 
 A repository of the projects I worked on or currently working on. It is updated regularly. 
 
-The projects are either written in Python (Jupyter Notebook). 
+The projects are either written in Python, Machine Learning and Artificial Intelligence. 
 
 Click on the projects to see full analysis and code.
 
@@ -12,9 +12,9 @@ Please contact me on Linkedin www.linkedin.com/in/sri-vithya2794
 
 If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
-* Contents
+# Contents
 
-* Python
+# Python Projects
 
 1.[Zomato Data Analysis](https://github.com/SRIVITHYA-27/Data_Analysis-Zomato)
 
@@ -26,11 +26,14 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
 5.[Turtle](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Python%20Turtle.ipynb)
 
-* Tableau
+# Artificial Intelligence
+
+1. Cognizant- https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship
+# Tableau Project
 
 1. [Tata Sales Analystics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
 
-* Certification
+# Certification
 
 1. Data Science Foundation- https://coursera.org/share/7728ed07b639cbbdf195662a19228a82
 2. PowerBi- https://olympus.mygreatlearning.com/courses/30824/certificate
@@ -39,9 +42,10 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 5. Artificial Intelligence- https://ibb.co/ykL6CQH
 6. SQL- https://ibb.co/vXp6C4J
 
-* Virtual Project Certification
+# Experience
+* Virtual Experience Program Participant
 
-1. Data Analysis with Python- https://coursera.org/share/16ab3f58e0963626b24f06847f54e86f
-2. Data Visualizaton using Tableau- https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_Dd7ocf5jXkH6gP3Hj_1683544913335_completion_certificate.pdf
-3. Data Analysis using python- https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_Dd7ocf5jXkH6gP3Hj_1684236713638_completion_certificate.pdf
+1. Coursera- https://coursera.org/share/16ab3f58e0963626b24f06847f54e86f
+2. Tata - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_Dd7ocf5jXkH6gP3Hj_1683544913335_completion_certificate.pdf
+3. Quantum - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_Dd7ocf5jXkH6gP3Hj_1684236713638_completion_certificate.pdf
 
