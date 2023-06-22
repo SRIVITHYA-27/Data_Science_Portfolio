@@ -28,24 +28,24 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
 # Artificial Intelligence
 
-1. Cognizant- https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship
+1. [Cognizant](https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship)
 # Tableau Project
 
 1. [Tata Sales Analystics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
 
 # Certification
 
-1. Data Science Foundation- https://coursera.org/share/7728ed07b639cbbdf195662a19228a82
-2. PowerBi- https://olympus.mygreatlearning.com/courses/30824/certificate
-3. Data Science with Python- https://ibb.co/2FpHzdV
-4. Tableau- https://ibb.co/4T83tYf
-5. Artificial Intelligence- https://ibb.co/ykL6CQH
-6. SQL- https://ibb.co/vXp6C4J
+1. [Data Science Foundation](https://coursera.org/share/7728ed07b639cbbdf195662a19228a82)
+2. [PowerBi](https://olympus.mygreatlearning.com/courses/30824/certificate)
+3. [Data Science with Python](https://ibb.co/2FpHzdV)
+4. [Tableau](https://ibb.co/4T83tYf)
+5. [Artificial Intelligence](https://ibb.co/ykL6CQH)
+6. [SQL](https://ibb.co/vXp6C4J)
 
 # Experience
 * Virtual Experience Program Participant
 
-1. Coursera- https://coursera.org/share/16ab3f58e0963626b24f06847f54e86f
-2. Tata - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_Dd7ocf5jXkH6gP3Hj_1683544913335_completion_certificate.pdf
-3. Quantum - https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_Dd7ocf5jXkH6gP3Hj_1684236713638_completion_certificate.pdf
+1. [Coursera](https://coursera.org/share/16ab3f58e0963626b24f06847f54e86f)
+2. [Tata](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_Dd7ocf5jXkH6gP3Hj_1683544913335_completion_certificate.pdf)
+3. [Quantum](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_Dd7ocf5jXkH6gP3Hj_1684236713638_completion_certificate.pdf)
 
