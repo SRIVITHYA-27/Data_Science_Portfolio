@@ -12,9 +12,9 @@ Please contact me on Linkedin www.linkedin.com/in/sri-vithya2794
 
 If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
-# Contents
+# Projects
 
-# Python Projects
+# Python 
 
 1.[Zomato Data Analysis](https://github.com/SRIVITHYA-27/Data_Analysis-Zomato)
 
@@ -29,6 +29,7 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 # Artificial Intelligence
 
 1. [Cognizant](https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship)
+   
 # Tableau Project
 
 1. [Tata Sales Analystics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
