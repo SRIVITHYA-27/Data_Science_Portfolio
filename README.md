@@ -32,7 +32,7 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
    
 # Tableau Project
 
-1. [Tata Sales Analystics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
+1. [Tata Sales Analytics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
 
 # Certification
 
