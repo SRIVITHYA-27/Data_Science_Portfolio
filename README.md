@@ -10,7 +10,7 @@ For better visualization of portfolio please visit the website https://github.co
 
 Please contact me on Linkedin www.linkedin.com/in/sri-vithya2794 
 
-If you are looking to hire a data scientist/ Data Analyst/ Machine Learning Engineer.
+If you are looking to hire a Data Analyst/ Machine Learning Engineer/Data Scientist.
 
 # Projects
 
