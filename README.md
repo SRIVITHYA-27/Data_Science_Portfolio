@@ -16,23 +16,23 @@ If you are looking to hire a data scientist/ Data Analyst/ Machine Learning.
 
 # Python 
 
-1.[Zomato Data Analysis](https://github.com/SRIVITHYA-27/Data_Analysis-Zomato)
+* [Zomato Data Analysis](https://github.com/SRIVITHYA-27/Data_Analysis-Zomato)
 
-2.[Quantium Data Analytics](https://github.com/SRIVITHYA-27/Quantium-Data-Analytics)
+* [Quantium Data Analytics](https://github.com/SRIVITHYA-27/Quantium-Data-Analytics)
 
-3.[BMI Calculator](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/BMI%20CALCULATOR.py)
+* [BMI Calculator](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/BMI%20CALCULATOR.py)
 
-4.[chess Board  ](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Chess%20Board.py)
+* [chess Board  ](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Chess%20Board.py)
 
-5.[Turtle](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Python%20Turtle.ipynb)
+* [Turtle](https://github.com/SRIVITHYA-27/Python_Mini_Projects/blob/main/Python%20Turtle.ipynb)
 
 # Artificial Intelligence
 
-1. [Cognizant](https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship)
+* [Cognizant](https://github.com/SRIVITHYA-27/Cognizant-Virtual-Internship)
    
 # Tableau Project
 
-1. [Tata Sales Analytics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
+* [Tata Sales Analytics](https://github.com/SRIVITHYA-27/Data-Visualization-Tableau)
 
 # Certification
 
